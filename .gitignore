@@ -1,0 +1,29 @@
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Packet Tracer ---
+*.pkt.bak
+*.pka
+*~
+*.pt.autosave
+
+# --- Microsoft Word temp/lock files ---
+~$*.docx
+~$*.doc
+*.tmp
+
+# --- Editor/IDE clutter ---
+.vscode/
+.idea/
+*.swp
+
+# --- Screenshots you don't want tracked (optional) ---
+# Uncomment if you only want final/curated screenshots committed,
+# not every raw export
+# screenshots/raw/
+
+# --- Archive/zip clutter from downloads ---
+*.zip
+*.rar
